@@ -1,0 +1,14 @@
+
+# Build output
+target/
+
+# Local database credentials
+src/main/resources/application.properties
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
